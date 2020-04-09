@@ -3,7 +3,7 @@ title: My Portfolio
 subtitle: Developer
 email: abishekkumar92@gmail.com
 description: <b>Learn</b>, <b>Grow</b> and help the <b>World</b> grow.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/my-portfolio" # the subpath of your site, e.g. /blog
 url: kumarabd
 author: Abishek Kumar
 street_address: Nan
